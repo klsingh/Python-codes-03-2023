@@ -17,7 +17,7 @@
 
 ```/usr/local/bin/python3.10``` - navigate to the dir to use our locally installed Python
 
-```vim ~/.bashrc``` - to make Python default (In bash file - the I button will enable you to edit the file Hit the Esc button to exit edit mode, then enter :wq to quit and save )
+```vim ~/.bashrc``` - to make Python default (In bash file - the ```I``` button will enable you to edit the file, hit the ```Esc``` button to exit edit mode, then enter ```:wq ``` and press ```Enter``` button to quit and save bashrc file)
 
 ```source ~/.bashrc``` - to source the file so that Python-3.10.10 installed by us will always be loaded
 
