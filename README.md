@@ -17,17 +17,19 @@
 
 ```/usr/local/bin/python3.10``` - navigate to the dir to use our locally installed Python
 
-```vim ~/.bashrc``` - to make Python default enter in bashrc file 
+```vim ~/.bashrc``` - to make Python-3.10.10 default enter in bashrc file 
 
-```alias python="/usr/local/bin/python3.10" ``` - Once inside bashrc file enter this line which will point towards our Python-3.10.10 installation and make it default
+```alias python="/usr/local/bin/python3.10" ``` - Once inside bashrc file enter this line which will point towards our Python-3.10.10 installation and make it default.
+
 
 In bash file - the ```I``` button will enable you to edit the file, hit the ```Esc``` button to exit edit mode, then enter ```:wq ``` and press ```Enter``` button to quit and save bashrc file.
+
 
 ```source ~/.bashrc``` - to source the file so that Python-3.10.10 installed by us will always be loaded
 
 ```python -m venv ~/.venv``` - create virtual environment which will live in Python-3.10.10 dir
 
-Go to ```vim ~/.bashrc``` and enter ```source ~/.venv/bin/activate``` - save the bash file and exit
+Go to  ```vim ~/.bashrc```  and enter  ```source ~/.venv/bin/activate``` - save the bash file and exit
 
 ## Once the above step is done we can see that every cell will have Python-3.10.10 version installed by us
 
