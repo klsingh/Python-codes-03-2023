@@ -1,7 +1,7 @@
 # Installation of latest Python version in Codespaces and creation of virtual environment
 ## Steps to be followed
 
-'sudo apt-get install build-essential gdb lcov libbz2-dev libffi-dev libgdbm-dev liblzma-dev libncurses5-dev libreadline6-dev libsqlite3-dev libssl-dev lzma lzma-dev tk-dev uuid-dev zlib1g-dev  - Install libraries
+'sudo apt-get install build-essential gdb lcov libbz2-dev libffi-dev libgdbm-dev liblzma-dev libncurses5-dev libreadline6-dev libsqlite3-dev libssl-dev lzma lzma-dev tk-dev uuid-dev zlib1g-dev'  - Install libraries
 
 'wget https://www.python.org/ftp/python/3.10.10/Python-3.10.10.tgz - get the latest Python from Python.org website
 
