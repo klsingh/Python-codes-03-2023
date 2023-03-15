@@ -37,7 +37,7 @@ Go to  ```vim ~/.bashrc```  and enter  ```source ~/.venv/bin/activate``` - save 
 
 ```touch Makefile``` - create template for our project
 
-## We can install ```ludwig``` AutoML tool or any other using command ```make install``` by just entering the tool name in requirements.txt file
+## We can install ```ludwig``` AutoML tool or any other using command ```make install``` in the terminal by just entering the tool name in requirements.txt file
 
 ```git status``` - to check the current status of the working directory and the staging area
 
