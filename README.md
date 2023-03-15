@@ -11,7 +11,7 @@
 
 ```./configure --enable-optimizations``` - command to run the optimizations by entering into Python-3.10.10.tgz directory
 
-```make -j 4 ``` - command to compile Python by utilizing all the 4 cores available to us. In you case number of cores may vary dpending upon your machine selection type.
+```make -j 4 ``` - command to compile Python by utilizing all the 4 cores available to us. In your case number of cores may vary dpending upon your machine selection type.
 
 ```sudo make altinstall``` - command to install Python setup tools
 
